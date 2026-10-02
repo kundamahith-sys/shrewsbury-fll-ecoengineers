@@ -25,6 +25,7 @@ def mission_one(r: robot):
     r.robot.straight(300)
     #r.robot.straight(-95)
     #r.robot.turn(-140)
+    
     #r.robot.straight(-110)
     #r.robot.turn(-20)
     #r.robot.straight(-120)
